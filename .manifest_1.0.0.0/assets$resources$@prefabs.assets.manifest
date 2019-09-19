@@ -44,6 +44,6 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
-- Assets/Resources/@Prefabs/CharacterSelectBth.prefab
-- Assets/Resources/@Prefabs/Player.prefab
+- Assets/Resources/@prefabs/CharacterSelectBth.prefab
+- Assets/Resources/@prefabs/Player.prefab
 Dependencies: []

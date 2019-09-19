@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2255204560
+CRC: 3218875106
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 95a24b460ddcfa0f6c5cd6ed8b66b198
+    Hash: 8ce9b64cee284ad19b433ac55c9f82d5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5ad585dd02dfb5016c0dad519eab8f49
@@ -12,5 +12,5 @@ ClassTypes:
 - Class: 49
   Script: {instanceID: 0}
 Assets:
-- Assets/Resources/@Scripts/DyncDll.bytes
+- Assets/Resources/@scripts/DyncDll.bytes
 Dependencies: []
