@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1875998378
+CRC: 1201840264
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 913bed1fbfc71b337673f5d6f1f9b3a7
+    Hash: 6eaac5adda97412010b953128acb8fd0
   TypeTreeHash:
     serializedVersion: 2
     Hash: 03f002be03ae598f373470fea4b1dda2
@@ -44,6 +44,6 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
-- Assets/Resources/@prefabs/CharacterSelectBth.prefab
+- Assets/Resources/@prefabs/characterselectbth.prefab
 - Assets/Resources/@prefabs/Player.prefab
 Dependencies: []
